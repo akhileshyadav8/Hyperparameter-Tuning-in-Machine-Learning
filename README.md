@@ -409,4 +409,4 @@ Machine Learning, Hyperparameter Tuning, GridSearchCV, RandomizedSearchCV, Bayes
 
 ---
 
-If you found this project useful, consider giving it a star.
+If you found this repository useful, consider giving it a star ⭐.
