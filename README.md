@@ -391,18 +391,22 @@ For modern Machine Learning and Deep Learning applications, Optuna and Bayesian 
 
 ---
 
-# Author
+# Author (Connect With Me)
 
 **Akhilesh Yadav**
 
 M.Sc Data Science
 
-GitHub: https://github.com/akhileshyadav8
-
-LinkedIn: https://www.linkedin.com/in/akhilesh-yadav-5a0955310
+- **LinkedIn:** https://www.linkedin.com/in/akhilesh-yadav88/
+- **Portfolio:** https://akhileshyadav8.github.io/
+- **Email:** yadavakhil766@gmail.com
 
 ---
 
 # Keywords
 
 Machine Learning, Hyperparameter Tuning, GridSearchCV, RandomizedSearchCV, Bayesian Optimization, BayesSearchCV, Optuna, TPOT, Genetic Algorithm, Model Optimization, Cross Validation, Scikit-Learn, AutoML
+
+---
+
+If you found this project useful, consider giving it a star.
