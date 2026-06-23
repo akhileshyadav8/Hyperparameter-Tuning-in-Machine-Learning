@@ -32,8 +32,6 @@ This repository provides practical implementations and explanations of the most 
 6. Types of Hyperparameter Tuning
 7. Comparison Table
 8. Best Practices
-9. Project Structure
-10. References
 
 ---
 
