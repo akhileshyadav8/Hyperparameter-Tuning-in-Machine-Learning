@@ -389,22 +389,30 @@ For modern Machine Learning and Deep Learning applications, Optuna and Bayesian 
 
 ---
 
-# Author (Connect With Me)
-
-**Akhilesh Yadav**
-
-M.Sc Data Science
-
-- **LinkedIn:** https://www.linkedin.com/in/akhilesh-yadav88/
-- **Portfolio:** https://akhileshyadav-portfolio-theta.vercel.app/
-- **Email:** yadavakhil766@gmail.com
-
----
-
 # Keywords
 
 Machine Learning, Hyperparameter Tuning, GridSearchCV, RandomizedSearchCV, Bayesian Optimization, BayesSearchCV, Optuna, TPOT, Genetic Algorithm, Model Optimization, Cross Validation, Scikit-Learn, AutoML
 
 ---
 
-If you found this repository useful, consider giving it a star ⭐.
+## 🔗 Connect With Me
+
+<p>
+  🌐 <a href="https://akhileshyadav-portfolio-theta.vercel.app" target="_blank">Portfolio</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/linkedin.svg" width="20" align="center"/>
+  <a href="https://www.linkedin.com/in/akhilesh-yadav88/" target="_blank">LinkedIn</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/github-dark.svg" width="20" align="center"/>
+  <a href="https://github.com/akhileshyadav8" target="_blank">GitHub</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/gmail-dark.svg" width="20" align="center"/>
+  <a href="mailto:yadavakhil766@gmail.com">Gmail</a>
+</p>
+
+---
+
+⭐ If you found this repository useful, consider giving it a star!
