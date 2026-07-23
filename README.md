@@ -396,7 +396,7 @@ For modern Machine Learning and Deep Learning applications, Optuna and Bayesian 
 M.Sc Data Science
 
 - **LinkedIn:** https://www.linkedin.com/in/akhilesh-yadav88/
-- **Portfolio:** https://akhileshyadav8.github.io/
+- **Portfolio:** https://akhileshyadav-portfolio-theta.vercel.app/
 - **Email:** yadavakhil766@gmail.com
 
 ---
